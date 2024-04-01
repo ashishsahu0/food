@@ -1,0 +1,21 @@
+{
+  "name": "Food Ordering",
+  "short_name": "Food Order",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ff5733",
+  "background_color": "#ffffff",
+  "description": "Order delicious food online from our restaurant.",
+  "icons": [
+    {
+      "src": "my-ecommerce-app/src/assets/food.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "my-ecommerce-app/src/assets/order-food.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
